@@ -8,7 +8,7 @@ This is a Docker image for the [OPSIN-ws](https://bitbucket.org/dan2097/opsin-ws
 
     docker run --rm -p 8080:8080 mcs07/opsin-ws
 
-The web interface will be available at <localhost:8080>.
+The web interface will be available at <http://localhost:8080>.
 
 Use a file extension to get a specific format. For example:
 
